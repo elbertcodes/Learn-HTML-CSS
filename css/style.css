@@ -4,6 +4,16 @@ h1 {
     background-color: yellow;
     height: 60px;
     width: 500px;
+    margin-left: 150px;
+    padding: 10px;
+}
+p {
+    font-size: 40px;
+    margin-left: 100px
+}
+img {
+    border: 10px solid yellow;
+    border-radius: 25px 
 }
 
 h2 {
@@ -12,6 +22,23 @@ h2 {
     height: 30px;
     width: 260px;
 }
-p {
-    font-size: 40px;
+ul {
+    background-color: #F7F9FC;
+    height: 100px;
+    width: 350px;
+    margin-top: 25px;
+    margin-bottom: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 55px;
+    padding-right: 55px;
+    border-radius: 8px;
+}
+.head-div {
+    background-color: red;
+
+}
+.first-div {
+    background-color: blue;
+
 }
