@@ -1,0 +1,17 @@
+h1 {
+    color: red;
+    font-size: 50px;
+    background-color: yellow;
+    height: 60px;
+    width: 500px;
+}
+
+h2 {
+    color: red;
+    background-color: yellow;
+    height: 30px;
+    width: 260px;
+}
+p {
+    font-size: 40px;
+}
